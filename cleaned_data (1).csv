@@ -1,0 +1,60 @@
+Date,App,Category,Intended Activity,Actual Activity,Duration,Number of Times Opened,Duration_minutes,Goal Achieved,category_encoded,intent_encoded,goal_achieved
+2025-07-10,Chrome,Productivity,Personal Development,Relaxation,"5hr, 32min",24,332,No,5,5,0
+2025-07-10,WhatsApp,Communication,Socializing,Socializing,53 mins,30,53,Yes,1,10,1
+2025-07-10,Adobe Acrobat,Study,Reading,Reading,19 mins,4,19,Yes,7,6,1
+2025-07-10,Gmail,Career,Work,Work,18 mins,12,18,Yes,0,14,1
+2025-07-10,LinkedIn,Career,Networking,Networking,10 mins,7,10,Yes,0,4,1
+2025-07-10,Spotify,Entertainment,Learning,Relaxation,9  mins,4,9,No,3,3,0
+2025-07-10,ChatGPT,Education,Research,Research,8 mins,1,8,Yes,2,8,1
+2025-07-11,Chrome,Productivity,Personal Development,Relaxation,"7hr, 11 mins",20,431,No,5,5,0
+2025-07-11,WhatsApp,Communication,Socializing,Socializing,"1hr, 11mins",72,71,Yes,1,10,1
+2025-07-11,YouTube,Entertainment,Study,Relaxation,44 mins,3,44,No,3,13,0
+2025-07-11,Adobe Acrobat,Study,Reading,Reading,32 mins,9,32,Yes,7,6,1
+2025-07-11,Gmail,Career,Work,Work,28 mins,18,28,Yes,0,14,1
+2025-07-11,LinkedIn,Career,Networking,Networking,18 mins,10,18,Yes,0,4,1
+2025-07-11,Phoenix,Productivity,Research,Research,8 mins,1,8,Yes,5,8,1
+2025-07-12,WhatsApp,Communication,Socializing & Work,Socializing & Work,"2 hr, 29 mins",88,149,Yes,1,11,1
+2025-07-12,Chrome,Productivity,Personal Development,Relaxation,"5hr, 47 mins",34,347,No,5,5,0
+2025-07-12,LinkedIn,Career,Networking,Networking,51 mins,29,51,Yes,0,4,1
+2025-07-12,ChatGPT,Education,Learning,Learning,24 mins,9,24,Yes,2,3,1
+2025-07-12,YouTube,Entertainment,Relaxation,Relaxation,8 mins,3,8,Yes,3,7,1
+2025-07-12,Adobe Acrobat,Study,Reading,Reading,8 mins,3,8,Yes,7,6,1
+2025-07-13,ChatGPT,Education,Learning,Learning,"1 hr, 3 mins",7,63,Yes,2,3,1
+2025-07-13,Chrome,Productivity,Research,Relaxation,"5 hr, 43 mins",24,343,No,5,8,0
+2025-07-13,WhatsApp,Communication,Socializing,Socializing,1 hr,45,60,Yes,1,10,1
+2025-07-13,LinkedIn,Career,Engage,Engage,26 mins,12,26,Yes,0,2,1
+2025-07-13,Piggvest,Finance,Savings,Savings,5 mins,5,5,Yes,4,9,1
+2025-07-14,Youtube,Entertainment,Relaxation,Relaxation,38 mins,5,38,Yes,3,7,1
+2025-07-14,WhatsApp,Communication,Socializing,Socializing,"1 hr, 33 mins",53,93,Yes,1,10,1
+2025-07-14,Chrome,Productivity,Personal Development,Relaxation,"6hr, 5 mins",28,365,No,5,5,0
+2025-07-14,LinkedIn,Career,Networking,Networking,25 mins,13,25,Yes,0,4,1
+2025-07-14,Adobe Acrobat,Study,Reading,Reading,20 mins,6,20,Yes,7,6,1
+2025-07-14,ChatGPT,Education,Research,Research,11 mins,4,11,Yes,2,8,1
+2025-07-15,Chrome,Productivity,Education,Relaxation,"6 hr, 3 mins",20,363,No,5,1,0
+2025-07-15,WhatsApp,Communication,Socializing,Socializing,48 mins,44,48,Yes,1,10,1
+2025-07-15,Gmail,Career,Work,Work,39 mins,17,39,Yes,0,14,1
+2025-07-15,ChatGPT,Education,Learning,Learning,22 mins,6,22,Yes,2,3,1
+2025-07-15,Phone,Communication,Calling,Calling,15 mins,21,15,Yes,1,0,1
+2025-07-16,Chrome,Productivity,Education,Relaxation,"3hr, 41 mins",25,221,No,5,1,0
+2025-07-16,WhatsApp,Communication,Socializing,Socializing,"2hr, 6 mins",55,126,Yes,1,10,1
+2025-07-16,LinkedIn,Career,Engage,Engage,9 mins,5,9,Yes,0,2,1
+2025-07-16,Spotify,Entertainment,Relaxation,Relaxation,7 mins,4,7,Yes,3,7,1
+2025-07-16,X(Twitter),Entertainment,Socializing,Socializing,7 mins,3,7,Yes,3,10,1
+2025-07-17,Spotify,Entertainment,Relaxation,Relaxation,11 mins,5,11,Yes,3,7,1
+2025-07-17,Chrome,Productivity,Education,Education,"3 hr, 50 mins",14,230,Yes,5,1,1
+2025-07-17,WhatsApp,Communication,Socializing,Socializing,48 mins,24,48,Yes,1,10,1
+2025-07-17,LinkedIn,Career,Networking,Networking,8 mins,4,8,Yes,0,4,1
+2025-07-18,Drive,Storage,Storage,Storage,7 mins,4,7,Yes,6,12,1
+2025-07-18,Chrome,Productivity,Personal Development,Relaxation,"7 hr, 45 mins",20,465,No,5,5,0
+2025-07-18,WhatsApp,Communication,Socializing,Socializing,"1 hr, 5 mins",34,65,Yes,1,10,1
+2025-07-18,Phone,Communication,Calling,Calling,12 mins,9,12,Yes,1,0,1
+2025-07-19,Spotify,Entertainment,Education,Education,33 mins,1,33,Yes,3,1,1
+2025-07-19,Chrome,Productivity,Personal Development,Relaxation,"4 hr, 5 mins",22,245,No,5,5,0
+2025-07-19,WhatsApp,Communication,Work,Work,"1 hr, 37 mins",52,97,Yes,1,14,1
+2025-07-20,Chrome,Productivity,Personal Development,Relaxation,"7hr, 4 mins",24,424,No,5,5,0
+2025-07-20,WhatsApp,Communication,Socializing,Socializing,56 mins,41,56,Yes,1,10,1
+2025-07-20,Youtube,Entertainment,Relaxation,Relaxation,25 mins,2,25,Yes,3,7,1
+2025-07-21,Youtube,Entertainment,Relaxation,Relaxation,7 mins,5,7,Yes,3,7,1
+2025-07-21,WhatsApp,Communication,Relaxation,Relaxation,"1 hr, 34 mins",47,94,Yes,1,7,1
+2025-07-21,Chrome,Productivity,Personal Development,Relaxation,"5hr, 56 mins",18,356,No,5,5,0
+2025-07-21,LinkedIn,Career,Networking,Networking,4 mins,5,4,Yes,0,4,1
